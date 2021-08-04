@@ -1,0 +1,46 @@
+title: HJKL
+author:
+  name: Tuan Nguyen
+  email: tuan.nguyenviet271@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Ruby on Rails developer and Vim user
+
+show_excerpts: false # TODO set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  tuang3142
+    # devto: jekyll
+    # linkedin: TODO
+    telegram: tuanguyenvi
+    # keybase: jekyll
+
+    # TODO what are instances
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- about.md
+
+# Build settings
+theme: minima
+
+minima:
+  skin: solarized-dark
+
+# TODO what feed/
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
