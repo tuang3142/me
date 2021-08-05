@@ -1,8 +1,8 @@
 # todo
 
-- [ ] write a proper about me, make it front page
-- [ ] upload cv
+- [ ] better footer (beter icons)
 - [ ] page list: projects, bucket, challenge
 - [ ] buy a domain
 - [ ] rss feed?
 - [ ] change font (to fira)
+- [ ] add an avatar
