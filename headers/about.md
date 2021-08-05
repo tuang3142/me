@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Tuan Nguyen, a Web Developer (and Vim enthusiast) living in Sai Gon. I am most efficient with Ruby, Python, and JavaScript. My tech stack includes Ruby on Rails and React.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I am with [Remitano](https://remitano.com), where I build software for communication and management within the company. I also develop a fair amount of features for our main product: a leading crypto trading platform in Vietnam and Nigeria. Previously, I worked as Ruby on Rails developer at [Floating Cube Studio](https://floatingcube.com/) and [Employment Hero](https://employmenthero.com/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In my free time, I enjoy contributing to open-source projects, fantasize about [good keyboards](need a link), and building new healthy habits [every month](/30-day-challenge/).
 
+I'm best reach via [email](mailto:tuan.nguyenviet271@gmail.com) and [telegram](https://t.me/tuanguyenvi). If you're feeling extremely generous, follow me on [GitHub](https://github.com/tuang3142/).
 
-[jekyll-organization]: https://github.com/jekyll
+My CV is available for download [here](../TuanNguyen-Resume.pdf).
+

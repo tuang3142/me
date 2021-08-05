@@ -3,7 +3,7 @@ author:
   name: Tuan Nguyen
   email: tuan.nguyenviet271@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Ruby on Rails developer and Vim user
+  Click, clack! I mostly write about RoR and Vim.
 
 show_excerpts: false # TODO set to true to show excerpts on the homepage
 
@@ -20,7 +20,7 @@ header_pages:
 theme: minima
 
 minima:
-  skin: dark
+  skin: solarized
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
