@@ -1,15 +1,29 @@
-title: HJKL
+title: Tuan Nguyen
 author:
   name: Tuan Nguyen
   email: tuan.nguyenviet271@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Ruby on Rails developer and Vim user
+  Click, clack! I mostly write about RoR and Vim.
 
 show_excerpts: false # TODO set to true to show excerpts on the homepage
 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- headers/about.md
+- headers/projects.md
+- headers/30-day-challenge.md
+- headers/bucket-list.md
+
+# Build settings
+theme: minima
+
+minima:
+  skin: solarized
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
@@ -28,17 +42,6 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-- about.md
-
-# Build settings
-theme: minima
-
-minima:
-  skin: solarized-dark
 
 # TODO what feed/
 plugins:
