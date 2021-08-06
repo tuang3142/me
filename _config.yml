@@ -12,7 +12,7 @@ show_excerpts: false # TODO set to true to show excerpts on the homepage
 header_pages:
 - headers/about.md
 - headers/projects.md
-- headers/open-source-feeds.md
+- headers/open-source-feed.md
 
 # Build settings
 theme: minima
