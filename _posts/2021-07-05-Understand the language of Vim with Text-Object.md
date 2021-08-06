@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
-categories: vim
+title: "Understand the language of Vim with Text-Object"
+categories: vim,text-object
 ---
 
-# Understand the language of Vim with Text-Object
-
-# why
+## why
 
 Say the cursor is in the middle of a word and we want to delete it. We can either:
 - type `bde` (go to the beginning then delete) like a peasant
 - or use `diw` (delete inside a word) like an absolute chad.
 
-# how
+## how
 
 `diw` is the combination of vim command `d` and text object `ir` (inside a word).  
 some ruby relevant text objects are:
@@ -33,6 +31,6 @@ a few more reasons/benefits to use text objects:
 - the potential is limitless when we can define our own text object. this guys wrote a [plugin](https://github.com/nelstrom/vim-textobj-rubyblock) for ruby block which can be selected as `ir`/`ar` (which, you guess it, means `inside ruby block ` / `around ruby block`).
 
 
-# conclude
+## conclude
 
 I am neither the creator nor a master convincer but merely a vim enthusiastic. Just try these tips for a few days to see if they really improve your productivity as they did to me.

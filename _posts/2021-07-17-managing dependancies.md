@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "managing dependancies"
+title: "Managing dependancies"
 categories: design, ror
-
 ---
 # managing dependancies
 
