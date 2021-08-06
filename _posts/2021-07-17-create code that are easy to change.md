@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create code that are easy to change"
-categories: design, ror
+categories: design ror
 ---
 
 # create code that are easy to change

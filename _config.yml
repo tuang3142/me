@@ -14,7 +14,7 @@ header_pages:
 - headers/projects.md
 - headers/open-source-feed.md
 
-# Build settings
+# theme
 theme: minima
 
 minima:
@@ -36,3 +36,8 @@ minima:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# tag
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty

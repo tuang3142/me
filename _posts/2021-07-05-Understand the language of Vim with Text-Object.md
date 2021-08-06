@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understand the language of Vim with Text-Object"
-categories: vim,text-object
+tags: vim text-object
 ---
 
 ## why
@@ -12,15 +12,17 @@ Say the cursor is in the middle of a word and we want to delete it. We can eithe
 
 ## how
 
-`diw` is the combination of vim command `d` and text object `ir` (inside a word).  
+`diw` is the combination of vim command `d` and text object `ir` (inside a word).
 some ruby relevant text objects are:
 
-when combining with vim command `d`, `c`, or `y`, we have the powerful vim language.  
+> insert table here
+
+when combining with vim command `d`, `c`, or `y`, we have the powerful vim language.
 for examples:
 - `dim`: delete inside method
 - `ci'`: change inside single quote
-- `yi]`: yank inside square bracket  
-- `cit`: delete inside html tag  
+- `yi]`: yank inside square bracket
+- `cit`: delete inside html tag
 (change i to a and we have around method, around single quote, etc.)
 
 try doing the above examples the normal way to appreciate how bad-ass and efficient text objects are.
