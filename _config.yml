@@ -7,14 +7,12 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # TODO set to true to show excerpts on the homepage
 
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
 - headers/about.md
 - headers/projects.md
-- headers/30-day-challenge.md
-- headers/bucket-list.md
+- headers/open-source-feeds.md
 
 # Build settings
 theme: minima
@@ -33,15 +31,6 @@ minima:
     # linkedin: TODO
     telegram: tuanguyenvi
     # keybase: jekyll
-
-    # TODO what are instances
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
 
 # TODO what feed/
 plugins:

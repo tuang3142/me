@@ -6,3 +6,4 @@
 - [ ] rss feed?
 - [ ] change font (to fira)
 - [ ] add an avatar
+- [ ] dark and ligh theme
