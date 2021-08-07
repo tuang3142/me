@@ -3,7 +3,7 @@ author:
   name: Tuan Nguyen
   email: tuan.nguyenviet271@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Click, clack! I mostly write about RoR and Vim.
+  Click, clack! I mostly write about Rails, Vim, and learning.
 
 show_excerpts: false # TODO set to true to show excerpts on the homepage
 
