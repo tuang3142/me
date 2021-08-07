@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On self-learning"
-tags: self-learning
+tags: self-learning vi
 ---
 
 # WHAT
