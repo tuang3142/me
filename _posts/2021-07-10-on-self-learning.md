@@ -4,11 +4,11 @@ title: "On self-learning"
 tags: self-learning vi
 ---
 
-# WHAT
+## WHAT
 
 I once asked one of the wisest people I've ever met how he self-learned.
 
-# HOW
+## HOW
 
 Here is his reply:
 
@@ -28,7 +28,7 @@ I just learn and understand how to apply it better. For the same reasons, I used
 They were more like a long Wikipedia article that I bookmarked and came back from time to time. However, the more I read, the more I realize
 there are not so many materials that fit my preference. Again, it would be better if I proactively came up with my exercises. It could be refactoring a toy project, or better yet, an open-source one.
 
-# Closing thoughts
+## Closing thoughts
 
 Be proactive when learning completes 80% of the quest for knowledge. It would be nice if you can finish it off
 with some practice. Happy learning!
