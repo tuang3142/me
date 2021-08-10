@@ -27,10 +27,9 @@ minima:
   # generate social links in footer
   social_links:
     github:  tuang3142
-    # devto: jekyll
     # linkedin: TODO
-    telegram: tuanguyenvi
-    # keybase: jekyll
+    telegram: tuang3142
+    # keybase: TODO
 
 # TODO what feed/
 plugins:

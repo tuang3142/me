@@ -14,4 +14,3 @@ In my free time, I enjoy [contributing](/feed/) to open-source projects, fantasi
 I'm best reach via [email](mailto:tuan.nguyenviet271@gmail.com) and [telegram](https://t.me/tuanguyenvi). If you're feeling extremely charitable, follow me on [GitHub](https://github.com/tuang3142/).
 
 My CV is available for download [here](../TuanNguyen-Resume.pdf).
-
