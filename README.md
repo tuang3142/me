@@ -5,6 +5,7 @@
 
 - [ ] update the projects and the feeds
 - [ ] add an avatar
+- [ ] proper tags
 
 ### done
 - [x] buy a domain
