@@ -1,11 +1,12 @@
-# todo
-
-- [x] update content (rewrite all the blogs)
-- [x] update the projects and the feeds
+### todo
 - [ ] set up ssl to enforce https
 - [ ] change font (to fira)
 - [ ] add an avatar
 - [ ] dark and ligh theme
 
-# done
+### doing
+- [ ] update content (rewrite all the blogs)
+- [ ] update the projects and the feeds
+
+### done
 - [x] buy a domain
