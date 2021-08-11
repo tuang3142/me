@@ -18,7 +18,7 @@ header_pages:
 theme: minima
 
 minima:
-  skin: dark
+  skin: solarized
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

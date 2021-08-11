@@ -11,6 +11,6 @@ Currently, I am with [Remitano](https://remitano.com), where I build software fo
 
 In my free time, I enjoy [contributing](/feed/) to open-source projects, fantasizing about [good keyboards](need a link), and click clacking about Rails & Vim (thus the blog you're reading).
 
-I'm best reach via [email](mailto:tuan.nguyenviet271@gmail.com) and [telegram](https://t.me/tuanguyenvi). If you're feeling extremely charitable, follow me on [GitHub](https://github.com/tuang3142/).
+I prefer [email](mailto:tuan.nguyenviet271@gmail.com) for a more formal conversation, but you can also drop me a quick message via [telegram](https://t.me/tuang3142). If you're feeling extremely charitable, follow me on [GitHub](https://github.com/tuang3142/).
 
 My CV is available for download [here](../TuanNguyen-Resume.pdf).
