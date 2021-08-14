@@ -6,9 +6,11 @@ tags: self-learning vi
 
 ## WHAT
 
-I once asked one of the wisest people I've ever met how he self-learned.
+I once asked a wise man how he learned.
 
 ## HOW
+
+*tl;dr*: Stay hungry for knowledge. This mindset will guide you toward the right people and materials.
 
 Here is his reply:
 
@@ -20,13 +22,13 @@ Here is his reply:
 
 > Việc mentor chung chung nó sẽ mơ hồ. Em nên nhìn xem mình còn yếu điểm nào thì cứ hỏi xung quanh, nếu ai có thông tin họ sẽ giúp. Có thể họ giúp đc nhiều, hoặc nếu ko nhiều thì họ cũng cho em manh mối để mình đào thêm cho sâu.
 
-tl;dr: Always stay hungry for knowledge. The mindset will lead you toward the right mentors and materials.
 
-I'd like to season the above saying with a bit of my experience: practice. It helps me reinforce the knowledge
-I just learn and understand how to apply it better. For the same reasons, I used to dislike technical books that don't have exercises
+I'd like to season his saying with a bit of my experience: practice. It helps me reinforce the knowledge
+I just learn and understand how to apply it better.  
+For this same reasons, I used to dislike technical books that don't have exercises
 (I'm looking at you [poodr](https://www.poodr.com/)).
 They were more like a long Wikipedia article that I bookmarked and came back from time to time. However, the more I read, the more I realize
-there are not so many materials that fit my preference. Again, it would be better if I proactively came up with my exercises. It could be refactoring a toy project, or better yet, an open-source one.
+there are not so many materials that fit my preference. Again, it would be better if I proactively came up with my exercises. It could be refactoring a toy project, or better, an open-source one.
 
 ## Closing thoughts
 

@@ -33,11 +33,11 @@ to get me coding comfortably.
 
 ### the Vim language
 
-Looking back, this was the defining moment when I felt my-blown, leveled up, awaken, whatever you call it. I [wrote]({% post_url 2021-07-05-vim-text-object %}) about this topic separately and [this](https://youtu.be/wlR5gYd6um0) is a great video to get you started. Mastering the Vim language is an essential part to help you appreciate the beauty of Vim.
+Looking back, this was the defining moment when I felt my-blown, leveled up, awaken, whatever you call it. I [wrote]({% post_url 2021-07-05-vim-text-object %}) about this topic separately and [this](https://youtu.be/wlR5gYd6um0) is a great video to get you start. Mastering the Vim language is an essential part to appreciate the beauty of Vim.
 
 ## Moving forward
 
-At this point, you should feel all those years of using VSCode were completely wasted. Now you're on your own journey into the vast and mystical land of Vim. The road is long and hard but full of exitement. I would recommend the following topics for your question: "Where to go next?":
+At this point, you should feel all those years of using VSCode were completely wasted. Now you're on your own journey into the vast and mystical land of Vim. The road is long and hard but full of exitement. I would recommend the following topics for your question: "Where should I go next?":
 
 - plugins
 - marcos
