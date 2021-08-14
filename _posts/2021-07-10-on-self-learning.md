@@ -6,11 +6,9 @@ tags: self-learning vi
 
 ## WHAT
 
-I once asked a wise man how he learned.
+I once asked a wise man how he learned. tl;dr: Stay hungry for knowledge. This mindset will guide you toward the right people and materials
 
 ## HOW
-
-*tl;dr*: Stay hungry for knowledge. This mindset will guide you toward the right people and materials.
 
 Here is his reply:
 

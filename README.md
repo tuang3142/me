@@ -1,14 +1,14 @@
 ### todo
-- [ ] update content (rewrite all the blogs)
-- [ ] set up ssl
+- [ ] update the projects
 - [ ] change root to /about
-
-- [ ] update the projects and the feeds
+- [ ] personal email
+- [ ] and the feeds
+- [ ] set up ssl
 - [ ] add an avatar
 - [ ] proper tags
-- [ ] personal email
 
 ### done
 - [x] buy a domain
 - [x] enforce https
 - [x] change font (to fira)
+- [x] update content (rewrite all the blogs)
