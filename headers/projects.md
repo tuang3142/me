@@ -16,7 +16,7 @@ CLI browser for Reddit. This is my first ever CLI software and published package
 
 ## [bit-converter](https://github.com/tuang3142/bit-converter)
 
-Crypto and Fiat converter or my attempt to build a Ruby gem from a previous Python project. I had a lot of [fun]({% post_url 2021-08-18-gem-development %}) building this one thanks to `bundler` providing a framework. It had me realize that I take for granted how quickly a framework can help set up a development, and also how I need to read code more often to know how things (mainly Rails) just work together magically.
+Crypto and Fiat converter or my attempt to build a Ruby gem from a previous Python project. I had a lot of [fun]({% post_url 2021-08-18-gem-development %}) building this one thanks to `bundler` providing a framework. It had me realize that I take for granted how quickly a framework can help set up a development, and also how I need to read code more often to know how things (mainly Rails) just work together magically. Last but not least, [making CLI is super, super fun]({% post_url 2021-08-19-gem-development-2 %}).
 
 
 ## [sudoku](https://github.com/tuang3142/sudoku)
