@@ -4,11 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-## This is where to show off some projects
+## [1337](https://github.com/tuang3142/1337)
 
-## todo
+This is my collection of leetcode problems. Occasionally, I'll write algorithms and data structures from scratch. The purpose is to practice and showcase clean code with explanation and complexity analysis. I primarily use Python over Ruby (which I use professionally) because Python supports a wider range of libraries for solving algorithmic problems.
 
-- [ ] sudoku gem
-- [ ] open source feeds
-- [ ] ruby quiz
-- [ ] manga reading website? in the mean time, just throw in the 1337 project
+
+## [redditor](https://github.com/tuang3142/redditor)
+
+CLI browser for Reddit. This is my first ever CLI software and published package. It still works surprisingly well after all those years.
+
+
+## [bit-converter](https://github.com/tuang3142/bit-converter)
+
+Crypto and Fiat converter or my attempt to build a Ruby gem from a previous Python project. I had a lot of [fun]({% post_url 2021-08-18-gem-development %}) building this one thanks to `bundler` providing a framework. It had me realize that I take for granted how quickly a framework can help set up a development, and also how I need to read code more often to know how things (mainly Rails) just work together magically.
+
+
+## [sudoku](https://github.com/tuang3142/sudoku)
+
+The classic sudoku solver, but fast. I used to solve [this problem](https://leetcode.com/problems/sudoku-solver/) with my eyes close. However, to set up a repository, to write good tests, and to make a good design out of it is a completely different story. This is the first project I applied test-driven development and some design patterns from [poodr](https://www.poodr.com/).
